@@ -1,7 +1,7 @@
 /*
  * $Id: IllegalClassTypeException.java 955 2013-06-29 11:07:58Z fanyong.kfy $
  *
- * Copyright (c) 2013 zhichubao.com. All Rights Reserved.
+ * Copyright (c) 2013 github.com. All Rights Reserved.
  */
 
 package com.github.acticfox.base.dao;
